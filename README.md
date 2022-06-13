@@ -1,3 +1,4 @@
+<div align="center">
 ## :airplane: 여긴어때?
  ### 여행 후기 웹 프로젝트
  
@@ -44,7 +45,7 @@
 - 그 외 문의는 메시지를 작성하면 답변을 받을 수 있습니다. 
 
 <br>
-<div align="center">
+
 ### :wrench: 기술 스택 및 툴
  
  \- IDE
