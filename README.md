@@ -44,7 +44,7 @@
 - 그 외 문의는 메시지를 작성하면 답변을 받을 수 있습니다. 
 
 <br>
-
+<div align="center">
 ### :wrench: 기술 스택 및 툴
  
  \- IDE
@@ -79,4 +79,4 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white)
 
 
-
+</div>
